@@ -1,0 +1,15 @@
+P: ¿Que tipo de interrupción es un stack overflow?
+R: Software
+RC: Hardware-Interna
+R: Hardware-Externa
+R: Ninguna de las anteriores
+P: ¿Que significa RAI?
+R:Raid And Iso
+R:Rutina de Alta de Id
+R:Ninguna es correcta
+RC:Rutina de Atencion de Interrupción
+P: ¿Que tipo de interrupcion es un sycall?
+RC: Software
+R: Hardware-Interna
+R: Hardware-Externa
+R: Ninguna de las anteriores
